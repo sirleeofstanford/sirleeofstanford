@@ -1,12 +1,40 @@
-- 👋 Hey there, I'm Lee Stanford 
-- 👀 I’m interested in Blockchain Technologies, Programming, CyberSecurity, Webhosting, and Virtualization Technologies
-- 🌱 I’m currently learning Python, Solidity, JavaScript, Bitcoin, and Ruby.
-- 💞️ I’m looking to collaborate on just about anything.  I'll lend a hand however I can.
-- 📫 How to reach me by email, phone, text, I even accept letters, telegrams, and pigeons, but those last three are becoming scarce lol.
-- 😄 Pronouns: He, Him.  But I'll respond to just about anything, even "Hey you."
-- ⚡ Fun fact: I'm a Linux Systems Engineer, Networking and CyberSecurity Professional, and an Aquarius.
-- 👍 I'd just like to say thank you for stopping by and checking out my GitHub Profile.
-<!---
-sirleeofstanford/sirleeofstanford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hey, I'm Lee Stanford
+
+Welcome to my GitHub — a living lab of infrastructure, scripting, and joyful stewardship.
+
+## 🧠 About Me
+
+I'm a Linux Systems Engineer and CyberSecurity Professional with a passion for building resilient, teachable infrastructure. My work spans:
+
+- 🧱 Blockchain technologies
+- 🧠 Programming and scripting (Python, JavaScript, Ruby, Solidity)
+- 🔐 CyberSecurity and forensic diagnostics
+- 🌐 Webhosting and virtualization (Hyper-V, WSL, WireGuard)
+- 🧬 Semantic trust logging and recovery-ledger design
+
+## 🛠️ What I'm Working On
+
+- Restoring global IPv6 identity across my home lab
+- Building contributor-ready PowerShell scripts for Hyper-V sanity
+- Scaffolding semantic trust ledgers for every diagnostic
+- Launching `hyperV-scripts-by-lee-&-copilot` — a repo born from whiteboard battles and adapter chaos
+
+## 🤝 Collaboration
+
+I’m always open to collaborate — whether it’s infrastructure, scripting, or just bouncing ideas. If you’ve got a project, a puzzle, or a plan, I’ll lend a hand however I can.
+
+## 📫 How to Reach Me
+
+Email, phone, text — I even accept letters, telegrams, and pigeons (though those last three are becoming scarce 🐦).
+
+## 😄 Pronouns
+
+He/Him — but I’ll respond to just about anything, even “Hey you.”
+
+## ⚡ Fun Fact
+
+I’m an Aquarius, a semantic event tagger, and a whiteboard warrior. Every fix is a story. Every script is a lesson.
+
+---
+
+Thanks for stopping by — feel free to explore, fork, or reach out. This profile is a map of my infrastructure journey, and you’re always welcome to walk it with me.
