@@ -19,6 +19,7 @@ I'm a Linux Systems Engineer and CyberSecurity Professional with a passion for b
 - Scaffolding semantic trust ledgers for every diagnostic
 - Launching `hyperV-scripts-by-lee-&-copilot` — a repo born from whiteboard battles and adapter chaos
 - Developing ssh_keygrid_AD: A project to pivot Active Directory towards running over ssh_host_based identities and authentication, with evolving secondary concepts for domain management.
+- Building my homelab into a DataCenter.
 
 ## 🤝 Collaboration
 
