@@ -27,7 +27,7 @@ I’m always open to collaborate — whether it’s infrastructure, scripting, o
 
 ## 📫 How to Reach Me
 
-Email, phone, text — I even accept letters, telegrams, and pigeons (though those last three are becoming scarce 🐦).
+Email, phone, text — I even accept letters, telegrams, pigeons, and dispatches (though those last four are becoming scarce 🐦).
 
 ## 😄 Pronouns
 
