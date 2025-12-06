@@ -7,7 +7,7 @@ Welcome to my GitHub — a living lab of infrastructure, scripting, and joyful s
 I'm a Linux Systems Engineer and CyberSecurity Professional with a passion for building resilient, teachable infrastructure. My work spans:
 
 - 🧱 Blockchain technologies
-- 🧠 Programming and scripting (Python, JavaScript, Ruby, Solidity, and Java)
+- 🧠 Programming and scripting (Python, JavaScript, Ruby, Solidity, Java, Bash, and PowerShell)
 - 🔐 CyberSecurity and forensic diagnostics
 - 🌐 Webhosting and virtualization (Hyper-V, WSL, WireGuard, OpenVPN, Docker,& Podman)
 - 🧬 Semantic trust logging and recovery-ledger design
