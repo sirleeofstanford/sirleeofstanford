@@ -9,7 +9,7 @@ I'm a Linux Systems Engineer and CyberSecurity Professional with a passion for b
 - 🧱 Blockchain technologies
 - 🧠 Programming and scripting (Python, JavaScript, Ruby, Solidity, and Java)
 - 🔐 CyberSecurity and forensic diagnostics
-- 🌐 Webhosting and virtualization (Hyper-V, WSL, WireGuard)
+- 🌐 Webhosting and virtualization (Hyper-V, WSL, WireGuard, OpenVPN, Docker,& Podman)
 - 🧬 Semantic trust logging and recovery-ledger design
 
 ## 🛠️ What I'm Working On
